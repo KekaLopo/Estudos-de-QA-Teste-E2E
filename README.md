@@ -1,2 +1,2 @@
-# Estudos pra mostrar conhecimentos sobre o assunto
+# Estudos pra demonstrar conhecimentos sobre o assunto
 E2E APENAS
