@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.3 (Python 3.10.1 on win32)" generated="20211217 18:54:39.090" rpa="false" schemaversion="2">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\Administrador\.vscode\extensions\robocorp.robotframework-lsp-0.34.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Acessar página home do site.">
+<msg timestamp="20211217 18:54:40.262" level="FAIL">No keyword with name 'Acessar página home do site.' found.</msg>
+<status status="FAIL" starttime="20211217 18:54:40.262" endtime="20211217 18:54:40.262"/>
+</kw>
+<kw name="Clicar no ícone carrinho de compras no menu superior direito">
+<status status="NOT RUN" starttime="20211217 18:54:40.263" endtime="20211217 18:54:40.263"/>
+</kw>
+<kw name="Clicar no botão de remoção de produtos (delete) no produto do carrinho.">
+<status status="NOT RUN" starttime="20211217 18:54:40.265" endtime="20211217 18:54:40.265"/>
+</kw>
+<status status="PASS" starttime="20211217 18:54:39.119" endtime="20211217 18:54:41.941"/>
+</kw>
+<status status="PASS" starttime="20211217 18:54:39.118" endtime="20211217 18:54:41.941"/>
+</test>
+<status status="PASS" starttime="20211217 18:54:39.092" endtime="20211217 18:54:41.942"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
