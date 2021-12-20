@@ -1,2 +1,2 @@
-# Testanto-inserção
-Testando add de produtos de um site
+# Estudos pra mostrar conhecimentos sobre o assunto
+E2E APENAS
